@@ -1,5 +1,5 @@
 const logoutButton = document.querySelector('.logout');
 const xulyLogout = ()=>{
-    window.location.href = "./dangky.html"
+    window.location.href = "./index.html"
 };
 logoutButton.addEventListener('click', xulyLogout);
